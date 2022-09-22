@@ -10,12 +10,12 @@
     font-size:92px;
     letter-spacing:-1.5px;
  }
- 
+
  .main-header__title--blue{
     color:var(--blue);
  }
  .main-header__title--orange{
-    color:var(--orange);
+    color:var(--preto);
 }
  .main-header__menu ul{
     display:flex;

@@ -15,7 +15,7 @@ import { FormsModule } from '@angular/forms';
   declarations: [
     AppComponent,
     HeaderComponent,
-    FooterComponent,
+    FooterComponent,  
     NaoEncontradaComponent,
     BarraPesquisaComponent
   ],
